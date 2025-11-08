@@ -2,7 +2,7 @@
 
 A 3-jointed robotic arm designed to automate the traditional Japanese matcha whisking process, blending robotics, IoT, and cultural mindfulness into an interactive experience.
 
-## ![Robotic Matcha Whisking Machine](./src/assets/Demo.jpg)u
+<img src="./src/assets/Demo.jpg" alt="Robotic Matcha Whisking Machine" width="600">
 
 ## 🧠 Overview
 
